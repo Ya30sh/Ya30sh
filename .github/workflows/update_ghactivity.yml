@@ -13,6 +13,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: Ya30sh/Ya30sh/blob/main/README.md
         env:
           GITHUB_TOKEN: ${{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}}
