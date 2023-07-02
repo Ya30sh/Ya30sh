@@ -18,7 +18,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{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}}
         with:
-          template: "templates/README.md.tpl"
+          template: "Ya30sh/README.md"
           writeTo: "README.md"
 
       - uses: stefanzweifel/git-auto-commit-action@v4
